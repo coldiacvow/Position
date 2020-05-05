@@ -1,0 +1,47 @@
+body {
+	background-color: #FF00ED;
+	}
+
+.container {
+	width: 800px;
+	height: 700px;
+	border: 2px solid coral;
+	background-color: darkgrey;
+	margin: 50% auto;
+   }
+	
+.kotak1, .kotak2, .kotak3, .kotak4 {
+	height: 200px;
+	width: 200px;
+	border: 3px solid #943187;
+	box-shadow: 15px 25px 30px black;
+	margin-left: 230px;
+	}
+	
+.kotak1 {
+	background-color: #FFCF00;
+	position: relative;
+	top: 70px;
+	left: 60px;
+	}
+	
+.kotak2 {
+	background-color: #FF0C00;
+	position: relative;
+	right: 80px;
+	
+	}
+	
+.kotak3 {
+	background-color: #007EFF;
+	position: relative;
+	bottom: 70px;
+	left: 60px;
+	}
+	
+.kotak4 {
+	background-color: #00E4FF;
+	position: relative;
+	bottom: 400px;
+	left: 200px;
+	}
